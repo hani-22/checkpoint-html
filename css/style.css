@@ -1,0 +1,10 @@
+.about{
+    background-image: url("../res/34201-decouvrez-5-animaux-a-guetter-en-automne-v2_article_big-2.jpeg");
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-name{
+    color: #fff;
+}
